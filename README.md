@@ -11,3 +11,12 @@ Se va a realizar un conversor de monedas internacionales, consiste en un program
   <li>Exibición de Resultados a los usuarios</li>
   
 </ul>
+
+<h1>RESULTADOS</h1>
+Despues de un exhaustivo trabajo por realizar el proyecto estos fueron los resultados:
+<ul>
+  <li>Lista para la seleccion de un tipo de cambio entre dos tipos de monedas extranjeras</li>
+  <li>Mostrar la tasa de cambio de acuerdo al API utilizada</li>
+  <li>Mostrar la conversion realizada y realizar bucle para otra solciitud</li>
+  <li>Seleccionar mas tasa de cambio de acuerdo a su codigo en el API</li>
+</ul>

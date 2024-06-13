@@ -20,3 +20,5 @@ Despues de un exhaustivo trabajo por realizar el proyecto estos fueron los resul
   <li>Mostrar la conversion realizada y realizar bucle para otra solciitud</li>
   <li>Seleccionar mas tasa de cambio de acuerdo a su codigo en el API</li>
 </ul>
+<img src="https://github.com/DanielOrtz/Challenge-Conversor-de-Monedas/blob/767e10ae52da596a83171c1ed1997673aa992014/EJEMPLO%201.JPG">
+<img src="https://github.com/DanielOrtz/Challenge-Conversor-de-Monedas/blob/767e10ae52da596a83171c1ed1997673aa992014/EJEMPLO%202.JPG">

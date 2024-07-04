@@ -22,3 +22,4 @@ Despues de un exhaustivo trabajo por realizar el proyecto estos fueron los resul
 </ul>
 <img src="https://github.com/DanielOrtz/Challenge-Conversor-de-Monedas/blob/767e10ae52da596a83171c1ed1997673aa992014/EJEMPLO%201.JPG">
 <img src="https://github.com/DanielOrtz/Challenge-Conversor-de-Monedas/blob/767e10ae52da596a83171c1ed1997673aa992014/EJEMPLO%202.JPG">
+<h1>No olvides implementar la dependencia de gson para visualizar satisfactoriamente el proyecto</h1>
